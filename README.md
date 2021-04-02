@@ -1,4 +1,4 @@
-## Area27RPC
+## Area27-RP
 **Written by Sxribe & lxuca**
 
 Discord + Area-27v2 Intergration.
